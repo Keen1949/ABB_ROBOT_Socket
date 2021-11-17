@@ -1,0 +1,53 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: C:\Users\Administrator\Documents\RobotStudio\Solutions\Solution126\Systems\TEMP\1635823589\backup.068785
+# 2021-11-09  09:59:56
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.05.00.00
+
+  RobotWare Base
+  Chinese
+  709-1 DeviceNet Master/Slave
+  840-2 PROFIBUS Anybus Device
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 910SC-3/0.55
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+PROGMOD\My_Pallet.mod @ 
+SYSMOD\user.sys @ 
+PROGMOD\Teachpoint.mod @ 
+PROGMOD\MainModule.mod @ 
+PROGMOD\Point_ALL.mod @ 
+PROGMOD\MyFunction.mod @ 
+SYSMOD\LINKEDM.sys @ HIDDEN
+PROGMOD\Calibrate.mod @ 
+PROGMOD\Socket_Commands.mod @ 
+PROGMOD\Socket_Connection.mod @ 
+PROGMOD\Order_Commands.mod @ 
+PROGMOD\Tool_Wobji.mod @ 
+PROGMOD\Parameters.mod @ 
+PROGMOD\Tool_Create.mod @ 
+PROGMOD\Homeing_Init.mod @ 
+
+
+>>EOF:
